@@ -1,19 +1,10 @@
-#include <stdio.h>
-
-
+#include<stdio.h>
 /**
- * main - prints "Programming is like building a multilingual
- * puzzle, followed by a newline."
- * return 0.
+ *main - This prints the line
+ *Return: returns the line
  */
-
 int main(void)
-/*
- * main - prints "Programming is like building a multilingual"
- * return 0.
- */
-
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
